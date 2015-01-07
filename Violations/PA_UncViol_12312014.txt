@@ -1,0 +1,13 @@
+File Name:  PA_UncViol12312014.shp
+
+Data Source:  Pennsylvania Department of Environmental Protection (PADEP)
+
+Data Link:  http://www.depreportingservices.state.pa.us/ReportServer/Pages/ReportViewer.aspx?/Oil_Gas/OG_Compliance
+
+Date Range:  1/1/2000 through 12/31/2014
+
+Notes:  This file contains violations issued to unconventional oil and gas wells between 1/1/2000 and 12/31/2014.  
+
+According to the PADEP (Source:  http://files.dep.state.pa.us/OilGas/BOGM/BOGMPortalFiles/OilGasReports/HelpDocs/Permits_Issued_Detail_Report_Help.pdf), a well is unconventional if the following conditions apply:  "An unconventional gas well is a well that is drilled into an Unconventional formation, which is defined as a geologic shale formation below the base of the Elk Sandstone or its geologic equivalent where natural gas generally cannot be produced except by horizontal or vertical well bores stimulated by hydraulic fracturing."  The majority of unconventioanl wells in Pennsylvania are drilled into the Marcellus Shale formation.
+
+There are 6,010 rows of violations data, including 5,134 distinct Violation ID's issued to 1,803 distinct unconventional wells.  Latitude and longitude data obtained by matching with permits data.  Six entries on the report (from two distinct wells) could not be matched to permit data, and therefore are not mapped. The FracTracker Alliance has converted the comma separated value (.csv) file to a shapefile (.shp).  To see a mapped version of this data, see our Pennsylvania Shale Viewer map:  http://maps.fractracker.org/latest/?appid=28041aae3e674e04b0f987f047f3fe59
